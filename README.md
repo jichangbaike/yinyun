@@ -309,5 +309,5 @@
 
 - **Maintained by:** `jichangbaike`  
 - **Last Updated:** `2026-04-08`  
-- **Version:** `v1.3`
+- **Version:** `v1.0`
 
