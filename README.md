@@ -10,7 +10,7 @@
 > 
 > 📮 如遇登录问题、套餐咨询、节点异常、退款或其他售后问题，请前往**隐云**官方网站或官方渠道咨询。  
 > 
-> 📒 最后更新：**2026-05-07**（如套餐、节点或活动有调整，以官网为准）
+> 📒 最后更新：**2026-06-16**（如套餐、节点或活动有调整，以官网为准）
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -22,7 +22,7 @@
 ## 官网入口
 
 - 👉 **隐云 YinYun 官网注册入口：**  
-  [https://finalto.xyz/YfcH3r](https://finalto.xyz/YfcH3r)
+  [隐云 YinYun 官网地址](https://finalto.xyz/YfcH3r)
 
 建议优先使用桌面浏览器完成注册、选购套餐与获取订阅。购买完成后，再按自己的设备平台导入到对应客户端即可。
 
@@ -241,11 +241,10 @@
 
 <details>
 <summary>点击展开查看实测长图</summary>
-<img src="https://raw.githubusercontent.com/jichangbaike/yinyun/refs/heads/main/images/yinyun-test-20260311.png" alt="隐云节点实测截图" width="900" />
-
+<img src="https://raw.githubusercontent.com/jichangbaike/yinyun/refs/heads/main/images/yinyun-test-20260616.png" alt="隐云节点实测截图" width="900" />
 </details>
 
-> 测试时间：2026-05-07，网络：电信 2Gbps
+> 测试时间：2026-06-16，网络：电信 1Gbps
 >
 
 ---
@@ -292,7 +291,7 @@
 
 那么 **隐云**可以作为一个可选项。
 
-👉 **隐云 YinYun 官网注册入口：**  [https://finalto.xyz/YfcH3r](https://finalto.xyz/YfcH3r)
+👉 **隐云 YinYun 官网注册入口：**  [隐云 YinYun 官网地址](https://finalto.xyz/YfcH3r)
 
 > 本仓库仅整理公开入口信息与基础使用说明，不提供账号销售、代开、售后服务。 
 > 使用过程中请严格遵守中国大陆及各节点所在地区的法律法规与服务条款。
@@ -309,6 +308,6 @@
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-05-07`  
-- **Version:** `v1.1`
+- **Last Updated:** `2026-06-16`  
+- **Version:** `v1.2`
 
