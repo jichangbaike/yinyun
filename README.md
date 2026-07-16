@@ -241,10 +241,11 @@
 
 <details>
 <summary>点击展开查看实测长图</summary>
-<img src="https://raw.githubusercontent.com/jichangbaike/yinyun/refs/heads/main/images/yinyun-test-20260616.png" alt="隐云节点实测截图" width="900" />
+<img src="https://raw.githubusercontent.com/jichangbaike/yinyun/refs/heads/main/images/yinyun-test-20260717.png" alt="隐云节点实测截图" width="1000" />
 </details>
 
-> 测试时间：2026-06-16，网络：电信 1Gbps
+
+> 测试时间：2026-07-17，网络：电信 2Gbps
 >
 
 ---
