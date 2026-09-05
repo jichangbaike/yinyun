@@ -243,7 +243,7 @@
 
 <details>
 <summary>点击展开查看实测长图</summary>
-<img src="https://raw.githubusercontent.com/jichangbaike/yinyun/refs/heads/main/images/yinyun-test-20260905.png" alt="隐云节点实测截图" width="1000" />
+<img src="https://raw.githubusercontent.com/jichangbaike/yinyun/refs/heads/main/images/yinyun-test-20260905.jpg" alt="隐云节点实测截图" width="1000" />
 </details>
 
 
