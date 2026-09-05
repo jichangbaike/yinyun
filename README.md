@@ -10,7 +10,7 @@
 > 
 > 📮 如遇登录问题、套餐咨询、节点异常、退款或其他售后问题，请前往**隐云**官方网站或官方渠道咨询。  
 > 
-> 📒 最后更新：**2026-07-17**（如套餐、节点或活动有调整，以官网为准）
+> 📒 最后更新：**2026-09-05**（如套餐、节点或活动有调整，以官网为准）
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -193,6 +193,8 @@
 
 支付完成后，在后台找到自己的订阅链接、二维码或配置入口。
 
+请不要使用任何第三方订阅转换器、订阅转换API，请不要在任何地方泄露您的账户或订阅信息。
+
 ### 第五步：导入客户端
 
 以 Clash / Shadowrocket / Quantumult X 为例：
@@ -241,11 +243,12 @@
 
 <details>
 <summary>点击展开查看实测长图</summary>
-<img src="https://raw.githubusercontent.com/jichangbaike/yinyun/refs/heads/main/images/yinyun-test-20260717.png" alt="隐云节点实测截图" width="1000" />
+<img src="https://raw.githubusercontent.com/jichangbaike/yinyun/refs/heads/main/images/yinyun-test-20260905.png" alt="隐云节点实测截图" width="1000" />
 </details>
 
 
-> 测试时间：2026-07-17，网络：电信 2Gbps
+
+> 测试时间：2026-09-05，网络：联通 1Gbps
 >
 
 ---
@@ -309,6 +312,6 @@
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-07-17`  
-- **Version:** `v1.3`
+- **Last Updated:** `2026-09-05`  
+- **Version:** `v1.4`
 
